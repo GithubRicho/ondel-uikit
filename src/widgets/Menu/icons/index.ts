@@ -17,6 +17,7 @@ export { default as TicketIcon } from "./Ticket";
 export { default as TradeIcon } from "./Trade";
 export { default as TwitterIcon } from "./Twitter";
 export { default as AuditIcon } from "./Audit";
+<<<<<<< HEAD
 export { default as GooseIcon } from "./Goose";
 export { default as ZCoreIcon } from "./ZCore";
 export { default as CCIcon } from "./CC";
@@ -29,3 +30,9 @@ export { default as ListingIcon } from "./Listing";
 export { default as MediumIcon } from "./Medium";
 export { default as WaveIcon } from "./Wave";
 export { default as BarnIcon } from "./Barn";
+=======
+export { default as BitBlocksIcon } from "./BitBlocks";
+export { default as LayerIcon } from "./Layer";
+export { default as RoadmapIcon } from "./Roadmap";
+export { default as BbkfihousesIcon } from "./Bbkfihouses";
+>>>>>>> refs/remotes/origin/master

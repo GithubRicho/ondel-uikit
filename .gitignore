@@ -19,4 +19,7 @@ yarn-error.log*
 /.idea/
 /.github/
 /.storybook/
+<<<<<<< HEAD
 colors.sh
+=======
+>>>>>>> refs/remotes/origin/master

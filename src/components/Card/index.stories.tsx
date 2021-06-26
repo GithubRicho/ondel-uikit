@@ -58,7 +58,11 @@ export const Default: React.FC = () => {
 
 export const CardHeader: React.FC = () => {
   return (
+<<<<<<< HEAD
     <div style={{ padding: "32px", width: "500px" }}>
+=======
+    <div style={{ padding: "32px", width: "600px" }}>
+>>>>>>> refs/remotes/origin/master
       <Card>
         <UIKitCardHeader>
           <Heading size="xl">Card Header</Heading>
@@ -75,22 +79,38 @@ export const Ribbon: React.FC = () => {
       <Row>
         <Card ribbon={<CardRibbon text="Ribbon" />}>
           <div style={{ height: "112px", backgroundColor: "#191326" }} />
+<<<<<<< HEAD
           <CardBody style={{ height: "150px" }}>Body</CardBody>
+=======
+          <CardBody style={{ height: "200px" }}>Body</CardBody>
+>>>>>>> refs/remotes/origin/master
         </Card>
       </Row>
       <Row>
         <Card ribbon={<CardRibbon variantColor="textDisabled" text="Ribbon with Long Text" />}>
+<<<<<<< HEAD
           <CardBody style={{ height: "150px" }}>Ribbons will truncate when text is too long</CardBody>
+=======
+          <CardBody style={{ height: "200px" }}>Ribbons will truncate when text is too long</CardBody>
+>>>>>>> refs/remotes/origin/master
         </Card>
       </Row>
       <Row>
         <Card ribbon={<CardRibbon variantColor="success" text="Success" />}>
+<<<<<<< HEAD
           <CardBody style={{ height: "150px" }}>Card</CardBody>
+=======
+          <CardBody style={{ height: "200px" }}>Card</CardBody>
+>>>>>>> refs/remotes/origin/master
         </Card>
       </Row>
       <Row>
         <Card ribbon={<CardRibbon variantColor="failure" text="Failure" />}>
+<<<<<<< HEAD
           <CardBody style={{ height: "150px" }}>Any Color in the theme</CardBody>
+=======
+          <CardBody style={{ height: "200px" }}>Any Color in the theme</CardBody>
+>>>>>>> refs/remotes/origin/master
         </Card>
       </Row>
     </div>

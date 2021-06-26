@@ -2,11 +2,7 @@ export const links = [
   {
     label: "Home",
     icon: "HomeIcon",
-<<<<<<< HEAD
-    href: "https://finance.zcore.network",
-=======
-    href: "/",
->>>>>>> refs/remotes/origin/master
+    href: "https://swap.peps.today",
   },
   {
     label: "Trade",
@@ -14,30 +10,18 @@ export const links = [
     items: [
       {
         label: "Exchange",
-<<<<<<< HEAD
-        href: "https://exchange.zcore.network/#/swap",
+        href: "https://swap.peps.today/x/#/swap",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.zcore.network/#/pool",
-=======
-        href: "https://exchange.pancakeswap.finance",
-      },
-      {
-        label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/pool",
->>>>>>> refs/remotes/origin/master
+        href: "swap.peps.today/x/#/pool",
       },
     ],
   },
   {
     label: "Farms",
     icon: "FarmIcon",
-<<<<<<< HEAD
-    href: "https://finance.zcore.network/farms",
-=======
-    href: "/farms",
->>>>>>> refs/remotes/origin/master
+    href: "https://swap.peps.today/farms",
   },
   {
     label: "Pools",
@@ -45,14 +29,6 @@ export const links = [
     href: "/syrup",
   },
   {
-<<<<<<< HEAD
-=======
-    label: "BBKFI houses",
-    icon: "BbkfihousesIcon",
-    href: "/bbkfi-houses",
-  },
-  {
->>>>>>> refs/remotes/origin/master
     label: "Lottery",
     icon: "TicketIcon",
     href: "/lottery",
@@ -123,22 +99,12 @@ export const links = [
       // },
       {
         label: "Github",
-<<<<<<< HEAD
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/PEPS-Project/",
       },
       {
         label: 'Docs',
-        href: 'https://zcore-network.gitbook.io/zcore-finance/',
+        href: 'http://peps.today/',
       },
-=======
-        href: "https://github.com/bitblocksproject/",
-      },
-      {
-        label: "Docs",
-        href: "https://bbfi.gitbook.io/bitblocks-finance/",
-      },
-
->>>>>>> refs/remotes/origin/master
     ],
   },
 ];
@@ -150,22 +116,37 @@ export const socials = [
     items: [
       {
         label: "English",
-<<<<<<< HEAD
-        href: "https://t.me/ZCoreFinance",
+        href: "http://telegram.peps.today",
+      },
+      {
+        label: "Türkiye",
+        href: "https://t.me/joinchat/HIHuKD1r8mRmM2Ey",
+      },
+      {
+        label: "Español",
+        href: "https://t.me/joinchat/_0PYTphkKYhmNzBh",
       },
       {
         label: "Português",
-        href: "https://t.me/ZCoreFinancePT",
-      },      
-=======
-        href: "https://t.me/bitblocksfinace",
+        href: "https://t.me/Peps_BR",
       },
->>>>>>> refs/remotes/origin/master
+      {
+        label: "Italiano",
+        href: "https://t.me/joinchat/WS89sCVlnjkEr8AI",
+      },
+      {
+        label: "India",
+        href: "https://t.me/joinchat/TV1zcUIS1ZPpjluG",
+      },
+      {
+        label: "Africa",
+        href: "https://t.me/joinchat/_acKO_mr0a43Mzcx",
+      },
+      
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
       // },
-<<<<<<< HEAD
       // {
       //   label: "中文",
       //   href: "https://t.me/PancakeSwap_CN",
@@ -202,35 +183,16 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/ZCoreCrypto",
-      },
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
       // },
-=======
-      {
-        label: "Portuguese (br)",
-        href: "https://t.me/bitblocksfinancebrasil",
-      },
-
-      {
-        label: "Announcements",
-        href: "https://t.me/BitBlocksANN",
-      },
->>>>>>> refs/remotes/origin/master
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-<<<<<<< HEAD
-    href: "https://twitter.com/ZCoreCrypto",
-=======
-    href: "https://twitter.com/BBKFI",
->>>>>>> refs/remotes/origin/master
+    href: "https://twitter.com/projectpeps",
   },
 ];
 

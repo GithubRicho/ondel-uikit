@@ -2,7 +2,7 @@ export const links = [
   {
     label: "Home",
     icon: "HomeIcon",
-    href: "https://swap.peps.today",
+    href: "/",
   },
   {
     label: "Trade",
@@ -10,18 +10,18 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://swap.peps.today/x/#/swap",
+        href: "https://exchange.bataviacrypto.com/#/swap",
       },
       {
         label: "Liquidity",
-        href: "swap.peps.today/x/#/pool",
+        href: "https://exchange.bataviacrypto.com/#/pool",
       },
     ],
   },
   {
     label: "Farms",
     icon: "FarmIcon",
-    href: "https://swap.peps.today/farms",
+    href: "/farms",
   },
   {
     label: "Pools",
@@ -99,12 +99,12 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/PEPS-Project/",
+        href: "https://github.com/OndelOndel",
       },
-      {
-        label: 'Docs',
-        href: 'http://peps.today/',
-      },
+      // {
+      //   label: 'Docs',
+      //   href: 'http://peps.today/',
+      // },
     ],
   },
 ];
@@ -116,37 +116,12 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://telegram.peps.today",
-      },
+        href: "#",
+      },      
       {
-        label: "Türkiye",
-        href: "https://t.me/joinchat/HIHuKD1r8mRmM2Ey",
+        label: "Bahasa Indonesia",
+        href: "#",
       },
-      {
-        label: "Español",
-        href: "https://t.me/joinchat/_0PYTphkKYhmNzBh",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/Peps_BR",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/joinchat/WS89sCVlnjkEr8AI",
-      },
-      {
-        label: "India",
-        href: "https://t.me/joinchat/TV1zcUIS1ZPpjluG",
-      },
-      {
-        label: "Africa",
-        href: "https://t.me/joinchat/_acKO_mr0a43Mzcx",
-      },
-      
-      // {
-      //   label: "Bahasa Indonesia",
-      //   href: "https://t.me/PancakeSwapIndonesia",
-      // },
       // {
       //   label: "中文",
       //   href: "https://t.me/PancakeSwap_CN",
@@ -192,7 +167,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/projectpeps",
+    href: "https://twitter.com/BataviaOndel",
   },
 ];
 
